@@ -8,6 +8,6 @@ package com.testdriven.money;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Money Aoo.");
+        System.out.println("Hello Money Awoo.");
     }
 }
