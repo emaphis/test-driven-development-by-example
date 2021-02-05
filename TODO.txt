@@ -1,4 +1,5 @@
-
+*    - highlights tHe TODO:
+DONE - marks TODO AS COMPLETED.
 
 We need to be able to add amounts in two different currencies and convert the result
 given a set of exchange rates.
@@ -7,7 +8,12 @@ We need to be able to multiply an amount (price per share) by a number (number o
 shares) and receive an amount.
 
 $5 + 10 CHF = $10, if rate is 2:1
-$5 * 2 - $10
-Make "amount" private
-Dollar side-effect?
+DONE: $5 * 2 - $10
+DONE: Make "amount" private
+DONE: Dollar side-effect?
 Money rounding?
+DONE: equals()
+hashCode()
+Equal null
+Equal object
+

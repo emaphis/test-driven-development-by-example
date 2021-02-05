@@ -6,13 +6,19 @@ package com.testdriven.money;
  * @author emaphis
  */
 public class Dollar {
-    int amount;
+    private int amount;
 
     public Dollar(int amount) {
         this.amount = amount;
     }
 
-    public void times(int multiplier) {
-        amount *= multiplier;
+    public Dollar times(int multiplier) {
+        return new Dollar(amount * multiplier);
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        Dollar dollar = (Dollar) obj;
+        return amount == dollar.amount;
     }
 }
