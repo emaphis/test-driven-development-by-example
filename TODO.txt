@@ -19,7 +19,7 @@ Equal object
 DONE: 5 CHF * 2 = 10 CHF
 Dollar/Franc duplication
 DONE: Common equals
-Common times
+DONE: Common times
 DONE: Compare Francs with Dollars
 DONE: Currency representation?
 Delete testFrancMultiplication?
