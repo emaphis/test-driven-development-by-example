@@ -8,14 +8,17 @@ We need to be able to multiply an amount (price per share) by a number (number o
 shares) and receive an amount.
 
 $5 + 10 CHF = $10, if rate is 2:1
+$5 + $5 = $10
+Equal object
+hashCode()
+Equal null
+Money rounding?
+
+
 DONE: $5 * 2 - $10
 DONE: Make "amount" private
 DONE: Dollar side-effect?
-Money rounding?
 DONE: equals()
-hashCode()
-Equal null
-Equal object
 DONE: 5 CHF * 2 = 10 CHF
 DONE: Dollar/Franc duplication
 DONE: Common equals
