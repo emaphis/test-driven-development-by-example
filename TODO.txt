@@ -17,10 +17,10 @@ hashCode()
 Equal null
 Equal object
 DONE: 5 CHF * 2 = 10 CHF
-Dollar/Franc duplication
+DONE: Dollar/Franc duplication
 DONE: Common equals
 DONE: Common times
 DONE: Compare Francs with Dollars
 DONE: Currency representation?
-Delete testFrancMultiplication?
+DONE: Delete testFrancMultiplication?
 
