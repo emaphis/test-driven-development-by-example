@@ -21,6 +21,6 @@ Dollar/Franc duplication
 DONE: Common equals
 Common times
 DONE: Compare Francs with Dollars
-Currency representation?
+DONE: Currency representation?
 Delete testFrancMultiplication?
 
