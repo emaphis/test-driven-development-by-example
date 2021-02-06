@@ -18,6 +18,8 @@ Equal null
 Equal object
 DONE: 5 CHF * 2 = 10 CHF
 Dollar/Franc duplication
-Common equals
+DONE: Common equals
 Common times
+Compare Francs with Dollars
+
 
