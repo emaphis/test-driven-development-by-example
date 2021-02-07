@@ -2,19 +2,19 @@ package com.testdriven.money;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Objects;
 
 /**
  *
  * @author emaphis
  */
 public class Bank {
-    private Map<Pair, Integer> rates = new HashMap<>();
-
+    private final Map<Pair, Integer> rates = new HashMap<>();
 
     private class Pair {
 
-        private String from;
-        private String to;
+        private final String from;
+        private final String to;
 
         Pair(String from, String to) {
             this.from = from;
@@ -23,13 +23,16 @@ public class Bank {
 
         @Override
         public boolean equals(Object obj) {
+            if (this == obj) return true;
+            if (obj == null || getClass() != obj.getClass()) return false;
+
             Pair pair = (Pair) obj;
             return from.equals(pair.from) && to.equals(pair.to);
         }
 
         @Override
         public int hashCode() {
-            return 0;
+            return Objects.hash(from, to) + 137;
         }
     }
 
