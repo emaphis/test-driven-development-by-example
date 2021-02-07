@@ -9,12 +9,12 @@ shares) and receive an amount.
 
 DONE: $5 + 10 CHF = $10, if rate is 2:1
 DONE: $5 + $5 = $10
-Return Money fro $5 + $5
+TODO: Return Money from $5 + $5
 DONE: Bank.reduce(Money)
 DONE: Reduce Money with conversion
 DONE: Reduce(Bank, String)
-Sum.plus
-Expression.times
+DONE: Sum.plus
+DONE: Expression.times
 Equal object
 hashCode()
 Equal null
