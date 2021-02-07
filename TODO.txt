@@ -7,12 +7,14 @@ given a set of exchange rates.
 We need to be able to multiply an amount (price per share) by a number (number of
 shares) and receive an amount.
 
-$5 + 10 CHF = $10, if rate is 2:1
+DONE: $5 + 10 CHF = $10, if rate is 2:1
 DONE: $5 + $5 = $10
 Return Money fro $5 + $5
 DONE: Bank.reduce(Money)
 DONE: Reduce Money with conversion
 DONE: Reduce(Bank, String)
+Sum.plus
+Expression.times
 Equal object
 hashCode()
 Equal null
