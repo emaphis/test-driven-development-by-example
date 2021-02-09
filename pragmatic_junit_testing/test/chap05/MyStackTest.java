@@ -1,6 +1,7 @@
 
-package chap03;
+package chap05;
 
+import chap05.MyStack;
 import java.util.EmptyStackException;
 import junit.framework.TestCase;
 
