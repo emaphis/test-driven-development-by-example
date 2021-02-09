@@ -1,0 +1,18 @@
+Strengthening our testing ability
+
+Right-BICEP.
+Right - Are the rsults right.
+B - Are the (b)oundry conditions CORRECT?
+I - Can you check (i)nverse relationships?
+C - Can you cross-check results by other means.
+E - Can you force (e)rror conditions to happen
+P - What about (p)erformance characteristics within the bounds
+
+CORRECT
+Conformance
+Ordering
+Range
+Reference
+Existence
+Cardinality
+Time
