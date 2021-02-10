@@ -1,0 +1,5 @@
+A shopping cart. This class lets you add, delete, and count
+What sort of boundary conditions might come up?
+Are there any implicit restrictions on what you can delete? 
+Are there any interesting issues if the cart is empty?
+
