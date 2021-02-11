@@ -1,5 +1,5 @@
 
-package chap05;
+package stack;
 
 import java.util.EmptyStackException;
 

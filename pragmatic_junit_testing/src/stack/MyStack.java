@@ -1,7 +1,6 @@
 
-package chap05;
+package stack;
 
-import chap05.StackExercise;
 import java.util.EmptyStackException;
 
 /**

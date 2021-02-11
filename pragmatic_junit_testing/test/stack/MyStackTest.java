@@ -1,7 +1,7 @@
 
-package chap05;
+package stack;
 
-import chap05.MyStack;
+import stack.MyStack;
 import java.util.EmptyStackException;
 import junit.framework.TestCase;
 
