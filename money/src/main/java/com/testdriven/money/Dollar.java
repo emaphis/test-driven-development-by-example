@@ -7,7 +7,7 @@ package com.testdriven.money;
  *
  * @author emaph
  */
-class Dollar {
+class Dollar extends Money {
 
     private int amount;
 
