@@ -20,6 +20,6 @@ the result given a set of exchange rates.
 
 [ ] Make “amount” private
 
-[ ] Dollar side-effects?
+[x] Dollar side-effects?
 
 [ ] Money rounding?
