@@ -40,4 +40,4 @@ the result given a set of exchange rates.
 
 [x] Currency?
 
-[ ] Delete testFrancMultiplication?
+[x] Delete testFrancMultiplication?
