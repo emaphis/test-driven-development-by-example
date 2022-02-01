@@ -1,9 +1,5 @@
 # TODO List of items to work on.
 
-[ ] uncompleted item.
-
-[X] means item is done.
-
 ## Requirements
 
 * We need to be able to add amounts in two different currencies and convert
@@ -16,10 +12,14 @@ the result given a set of exchange rates.
 
 [ ] $5 + 10 CHF = $10 if rate is 2:1
 
-[X] $5 * 2 = $10
+[x] $5 * 2 = $10
 
 [ ] Make “amount” private
 
 [x] Dollar side-effects?
 
 [ ] Money rounding?
+
+[x] Equals - implies hashcode
+
+[ ] hashCode()
