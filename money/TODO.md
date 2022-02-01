@@ -14,7 +14,7 @@ the result given a set of exchange rates.
 
 [x] $5 * 2 = $10
 
-[ ] Make “amount” private
+[x] Make "amount" private
 
 [x] Dollar side-effects?
 
@@ -23,3 +23,7 @@ the result given a set of exchange rates.
 [x] Equals - implies hashcode
 
 [ ] hashCode()
+
+[ ] Equal null
+
+[ ] Equal object
