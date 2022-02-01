@@ -20,12 +20,18 @@ the result given a set of exchange rates.
 
 [ ] Money rounding?
 
-[x] Equals - implies hashcode
+[x] Equals - implies hashcode, object testing
 
-[ ] hashCode()
+  [ ] hashCode()
 
-[ ] Equal null
+  [ ] Equal null
 
-[ ] Equal object
+  [ ] Equal object
 
-[ ] 5 CHF * 2 = 10 CHF - Francs
+[x] 5 CHF * 2 = 10 CHF - Francs
+
+  [ ] Dollar/Franc duplication
+
+    [ ] Common equals
+
+    [ ] Common times
