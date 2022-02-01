@@ -16,7 +16,7 @@ the result given a set of exchange rates.
 
 [ ] $5 + 10 CHF = $10 if rate is 2:1
 
-[ ] $5 * 2 = $10
+[X] $5 * 2 = $10
 
 [ ] Make “amount” private
 
