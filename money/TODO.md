@@ -35,3 +35,5 @@ the result given a set of exchange rates.
     [x] Common equals
 
     [ ] Common times
+
+[x] Compare Francs with Dollars
