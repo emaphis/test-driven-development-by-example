@@ -37,3 +37,7 @@ the result given a set of exchange rates.
     [ ] Common times
 
 [x] Compare Francs with Dollars
+
+[ ] Currency?
+
+[ ] Delete testFrancMultiplication?
