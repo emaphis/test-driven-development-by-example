@@ -38,6 +38,6 @@ the result given a set of exchange rates.
 
 [x] Compare Francs with Dollars
 
-[ ] Currency?
+[x] Currency?
 
 [ ] Delete testFrancMultiplication?
