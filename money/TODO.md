@@ -32,6 +32,6 @@ the result given a set of exchange rates.
 
   [ ] Dollar/Franc duplication
 
-    [ ] Common equals
+    [x] Common equals
 
     [ ] Common times
