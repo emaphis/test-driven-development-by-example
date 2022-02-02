@@ -9,10 +9,8 @@ Creating a simple test framework in Python
 - [ ] Run multiple tests
 - [X] Report collected results
 - [X] Log string in WasRun
-- [ ] Report failed test
+- [X] Report failed test
+- [ ] Catch and report setUp errors
 
-- Finished Chapter 18
-- Finished Chapter 19
-- Finished Chapter 20
-- Finished Chapter 21
-- Start Chapter 22
+- Finsihed Chapter 22
+- Start Chapter 23
