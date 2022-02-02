@@ -17,19 +17,19 @@ public class Money implements Expression {
         this.currency = currency;
     }
 
-    static Money dollar(int amount) {
+    public static Money dollar(int amount) {
         return new Money(amount, "USD");
     }
 
-    static Money franc(int amount) {
+    public static Money franc(int amount) {
         return new Money(amount, "CHF");
     }
 
-    Money times(int multiplier) {
+    public Expression times(int multiplier) {
         return new Money(amount * multiplier, currency);
     }
 
-    Expression plus(Money addend) {
+    public Expression plus(Expression addend) {
         return new Sum(this, addend);
     }
 

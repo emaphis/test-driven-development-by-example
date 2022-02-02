@@ -10,7 +10,7 @@ the result given a set of exchange rates.
 
 ## Items
 
-[ ] $5 + 10 CHF = $10 if rate is 2:1
+[x] $5 + 10 CHF = $10 if rate is 2:1
 
 [x] $5 + $5 = $10
 
@@ -21,6 +21,10 @@ the result given a set of exchange rates.
 [x] Reduce Money with conversion
 
 [x] Reduce(Bank, String)
+
+[ ] Sum.plus
+
+[ ] Expression.times
 
 [ ] Money rounding?
 
