@@ -2,7 +2,7 @@
 
 Creating a simple test framework in Python
 
-- [ ] Invoke test method
+- [X] Invoke test method
 - [ ] Invoke setUp first
 - [ ] Invoke tearDown afterward
 - [ ] Invoke tearDown even if the test method fails
