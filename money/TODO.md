@@ -16,7 +16,11 @@ the result given a set of exchange rates.
 
 [ ] Return Money from $5 + $5
 
-[ ] Bank.reduce(Money)
+[x] Bank.reduce(Money)
+
+[ ] Reduce Money with conversion
+
+[ ] Reduce(Bank, String)
 
 [ ] Money rounding?
 
