@@ -6,8 +6,7 @@ class TestCaseTest(TestCase):
         self.test = WasRun("testMethod")
 
     def testTemplateMethod(self):
-        test = WasRun("testMethod")
-        test.run()
-        assert("setUp testMethod tearDown " == test.log)
+        self.test.run()
+        assert("setUp testMethod tearDown " == self.test.log)
 
 TestCaseTest("testTemplateMethod").run()
