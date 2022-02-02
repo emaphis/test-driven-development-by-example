@@ -6,11 +6,12 @@ Creating a simple test framework in Python
 - [X] Invoke setUp first
 - [X] Invoke tearDown afterward
 - [ ] Invoke tearDown even if the test method fails
-- [ ] Run multiple tests
+- [X] Run multiple tests
 - [X] Report collected results
 - [X] Log string in WasRun
 - [X] Report failed test
 - [ ] Catch and report setUp errors
+- [ ] Create TestSuite from a TestCase class
 
 - Finsihed Chapter 22
-- Start Chapter 23
+- Continuing Chapter 23
