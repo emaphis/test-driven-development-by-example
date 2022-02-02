@@ -28,6 +28,8 @@ the result given a set of exchange rates.
 
 [ ] Money rounding?
 
+[x] Port Hastable to modern equivalent
+
 Equals - implies hashcode, object testing
 
   [ ] hashCode()
