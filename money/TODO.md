@@ -14,7 +14,7 @@ the result given a set of exchange rates.
 
 [x] $5 + $5 = $10
 
-[ ] Return Money from $5 + $5
+[x] Return Money from $5 + $5
 
 [x] Bank.reduce(Money)
 
@@ -24,7 +24,7 @@ the result given a set of exchange rates.
 
 [x] Sum.plus
 
-[ ] Expression.times
+[x] Expression.times
 
 [ ] Money rounding?
 
