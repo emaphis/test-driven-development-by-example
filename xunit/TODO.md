@@ -7,10 +7,12 @@ Creating a simple test framework in Python
 - [X] Invoke tearDown afterward
 - [ ] Invoke tearDown even if the test method fails
 - [ ] Run multiple tests
-- [ ] Report collected results
+- [X] Report collected results
 - [X] Log string in WasRun
+- [ ] Report failed test
 
 - Finished Chapter 18
 - Finished Chapter 19
 - Finished Chapter 20
-- Start Chapter 21
+- Finished Chapter 21
+- Start Chapter 22
