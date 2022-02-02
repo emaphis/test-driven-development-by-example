@@ -3,6 +3,7 @@
  */
 package com.testdriven.money;
 
+
 /**
  *
  * @author emaph
@@ -51,9 +52,21 @@ public class Money implements Expression {
 
     @Override
     public boolean equals(Object obj) {
+        if (this == obj)
+            return true;
+        if (obj == null || obj.getClass() != this.getClass())
+            return false;
         Money money = (Money) obj;
         return amount == money.amount
                 && currency().equals(money.currency());
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 5;
+        hash = 83 * hash + this.amount;
+        hash = 83 * hash + Objects.hashCode(this.currency);
+        return hash;
     }
 
     @Override

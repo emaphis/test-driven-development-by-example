@@ -32,8 +32,8 @@ the result given a set of exchange rates.
 
 Equals - implies hashcode, object testing
 
-  [ ] hashCode()
+  [x] hashCode()
 
-  [ ] Equal null
+  [x] Equal null
 
-  [ ] Equal object
+  [x] Equal object

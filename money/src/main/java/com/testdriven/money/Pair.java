@@ -16,12 +16,16 @@ public class Pair {
 
     @Override
     public boolean equals(Object object) {
+        if (this == object)
+            return true;
+        if (object == null || object.getClass() != this.getClass())
+            return false;
         Pair pair = (Pair) object;
         return from.equals(pair.from) && to.equals(pair.to);
     }
 
     @Override
     public int hashCode() {
-        return 0;
+        return 31 + from.hashCode() + to.hashCode();
     }
 }
