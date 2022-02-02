@@ -8,3 +8,6 @@ Creating a simple test framework in Python
 - [ ] Invoke tearDown even if the test method fails
 - [ ] Run multiple tests
 - [ ] Report collected results
+
+- Finished Chapter 18
+- Start Chapter 19
