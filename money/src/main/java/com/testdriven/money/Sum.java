@@ -8,6 +8,7 @@ package com.testdriven.money;
  * @author emaph
  */
 class Sum implements Expression {
+
     Money augend;
     Money addend;
 
@@ -16,5 +17,8 @@ class Sum implements Expression {
         this.addend = addend;
     }
 
-
+    public Money reduce(String to) {
+        int amount = augend.amount + addend.amount;
+        return new Money(amount, to);
+    }
 }
