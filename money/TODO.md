@@ -14,6 +14,10 @@ the result given a set of exchange rates.
 
 [ ] $5 + $5 = $10
 
+[ ] Return Money from $5 + $5
+
+[ ] Bank.reduce(Money)
+
 [ ] Money rounding?
 
 Equals - implies hashcode, object testing
