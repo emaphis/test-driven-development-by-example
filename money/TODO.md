@@ -22,7 +22,7 @@ the result given a set of exchange rates.
 
 [x] Reduce(Bank, String)
 
-[ ] Sum.plus
+[x] Sum.plus
 
 [ ] Expression.times
 
